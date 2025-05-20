@@ -14,8 +14,6 @@ I'm a computer Engineering Student, looking to explore different coding stacks a
   <img alt="github-snake" src="https://raw.githubusercontent.com/SibuyasGaid/SibuyasGaid/output/github-snake.svg" />
 </picture>
 
-username=SibuyasGaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SibuyasGaid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
