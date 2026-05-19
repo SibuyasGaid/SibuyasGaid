@@ -1,5 +1,5 @@
 # About Me:
-I'm a computer Engineering Student, looking to explore different coding stacks and expand my technical skills. 
+I'm a Computer Engineer, looking to explore different coding stacks and expand my technical skills. 
 
 
 ## 🌐 Socials:
